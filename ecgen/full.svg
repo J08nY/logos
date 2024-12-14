@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="180"
+   inkscape:export-xdpi="180"
+   inkscape:export-filename="/home/johny/proj/creative/vect/ecgen/full.png"
+   sodipodi:docname="drawing.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 255 99.999999"
+   height="100mm"
+   width="255mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     fit-margin-right="20"
+     fit-margin-bottom="20"
+     fit-margin-left="20"
+     fit-margin-top="20"
+     inkscape:window-maximized="1"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:window-height="1023"
+     inkscape:window-width="1920"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="91.028928"
+     inkscape:cx="504.24845"
+     inkscape:zoom="0.49497475"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-22.736985,0.46894136)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       id="path833"
+       d="M 50.638114,76.533884 103.70588,23.466115"
+       style="fill:none;stroke:#000000;stroke-width:5.565;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <circle
+       r="7.5579939"
+       cy="29.71076"
+       cx="72.607689"
+       id="path835"
+       style="fill:#000000;fill-opacity:1;stroke-width:5.56501;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:normal" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:5.56499;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:normal"
+       id="path835-3"
+       cx="45.674847"
+       cy="36.044785"
+       r="2.9378617" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:5.56501;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:normal"
+       id="path835-6"
+       cx="51.382034"
+       cy="55.882671"
+       r="5.5205617" />
+    <circle
+       r="5.5205622"
+       cy="50.014587"
+       cx="246.51474"
+       id="path835-6-7"
+       style="fill:#000000;fill-opacity:1;stroke-width:5.56501;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:normal" />
+    <circle
+       r="2.9378617"
+       cy="66.968452"
+       cx="248.05252"
+       id="path835-3-5"
+       style="fill:#000000;fill-opacity:1;stroke-width:5.56498;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:normal" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:5.56501;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.6;stroke-dasharray:none;paint-order:normal"
+       id="path835-35"
+       cx="228.56245"
+       cy="65.492371"
+       r="3.3865001" />
+    <text
+       id="text923"
+       y="59.784725"
+       x="97.551567"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:Inter;-inkscape-font-specification:'Inter Bold';text-align:start;text-anchor:start;stroke-width:0.264583"
+         y="59.784725"
+         x="97.551567"
+         id="tspan921"
+         sodipodi:role="line">ecgen</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5.56501;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.6;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="M 200.26019,76.533884 253.32796,23.466115"
+       id="path833-6" />
+  </g>
+</svg>
