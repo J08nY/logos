@@ -26,6 +26,8 @@
 ![](minerva/logo.tp.svg)
 
 # pyecsca
+![](pyecsca/logo_black_ph.tp.svg)
+
 ![](pyecsca/logo_black_full.tp.svg)
 
 ![](pyecsca/logo_black.tp.svg)
