@@ -1,3 +1,3 @@
-![](full.svg)
+![](full.tp.svg)
 
-![](logo.svg)
+![](logo.tp.svg)

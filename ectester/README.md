@@ -1,9 +1,9 @@
-![](full.svg)
+![](full.tp.svg)
 
-![](full_w_outline.svg)
+![](full_w_outline.tp.svg)
 
-![](logo.svg)
+![](logo.tp.svg)
 
-![](logo_ec.svg)
+![](logo_ec.tp.svg)
 
-![](logo_mod.svg)
+![](logo_mod.tp.svg)

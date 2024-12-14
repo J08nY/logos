@@ -1,5 +1,5 @@
-![](logo_black_full.svg)
+![](logo_black_full.tp.svg)
 
-![](logo_black.svg)
+![](logo_black.tp.svg)
 
-![](logo_gradient.svg)
+![](logo_gradient.tp.svg)
